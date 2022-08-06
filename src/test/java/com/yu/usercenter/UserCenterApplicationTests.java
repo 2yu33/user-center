@@ -14,6 +14,7 @@ class UserCenterApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("修改了");
     }
 
 }
