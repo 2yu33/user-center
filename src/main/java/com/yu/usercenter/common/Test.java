@@ -20,7 +20,7 @@ public class Test {
             System.out.println(method.getName()+"==>"+method.getReturnType()+"==>"+method.getParameterCount());
         }
         Method m =c.getDeclaredMethod("getName");
-        System.out.println("third");
+        System.out.println("last");
     }
 
 }
